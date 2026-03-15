@@ -44,11 +44,14 @@ madprojx-os/
 ├── brief.md                   # Project brief — scope and definition of done
 ├── madprojx-site/             # Astro website codebase (has its own .claude/CLAUDE.md)
 ├── areas/
-│   ├── brand/positioning.md   # Full positioning doc
+├── brand/positioning.md   # Full positioning doc
 │   ├── content/strategy.md    # Content strategy and weekly workflow
 │   ├── content/ideas-bank.md  # Content idea backlog
 │   ├── services/offerings.md  # Service definitions and pricing
-│   └── operations/ai-decision-matrix.md  # Which AI tool for which task
+│   └── operations/
+│       ├── ai-decision-matrix.md  # Which AI tool for which task
+│       ├── workflow-guide.md      # madprojx-specific daily workflow
+│       └── operating-plan-v2.md   # Full operating plan V2.1
 ├── resources/                 # Reference material (competitors, tools, templates, research)
 └── archives/                  # Completed or inactive items
 Key Rules
@@ -65,7 +68,7 @@ Environment
 Windows 11 PC — Claude Desktop (Cowork). i9-14900K, 32GB DDR5, 4060 Ti 8GB. Primary for business ops, content creation, scheduled tasks.
 KITT (Ubuntu 24.04 LTS) — Claude Code. Ryzen 9 5950X, 64GB DDR4. Primary for development, builds, 24/7 automation.
 Cloudflare — Hosts madprojx.com. Pages, Workers, KV, R2, D1 available.
-Obsidian — Opens this repo as a vault on Windows. DriveSync for mobile access.
+Obsidian — Opens this repo as a vault on Windows at C:\ObsidianVaults\AllTheThings\projects\madprojx-os\. Local only, no cloud sync. Git is the only sync engine between KITT and Windows. Mobile access via Tailscale RDP if needed.
 
 What NOT to Do
 
