@@ -4,14 +4,22 @@ Single source of truth for madprojx — AI consulting for small businesses.
 
 ## Current Phase
 
-**Phase 1: Foundation** — building the business operating system and foundational docs.
+**Phase 2: Presence** — website live, LinkedIn launched.
 
 ## Active Priorities
 
-1. Finalize brand positioning and service offerings
-2. Build out madprojx.com (Astro site in `madprojx-site/`)
-3. Launch LinkedIn presence with 2-3 posts/week
-4. Set up recurring content workflow via Cowork scheduled tasks
+1. Weekly LinkedIn content (2-3 posts/week) — first post published
+2. First blog article for madprojx.com
+3. Build weekly content rhythm (Monday plan → Wed draft → Thursday publish → Friday engage)
+4. Client outreach planning
+
+## Completed
+
+1. Brand positioning and service offerings finalized
+2. madprojx.com live on Cloudflare Pages (5 pages: Home, Services, About, Blog, Contact)
+3. LinkedIn profile overhauled and first post published
+4. madprojx-os repo is functioning single source of truth
+5. Claude Desktop → Claude Code handoff workflow documented in CLAUDE.md
 
 ## Repo Structure
 
