@@ -21,6 +21,18 @@ AI Implementation Sprint — Project-based, 2-6 weeks. Build the top recommendat
 Ongoing AI Advisory — Monthly retainer. Check-ins, priority support, quarterly security review.
 
 Full details: areas/services/offerings.md
+
+## Business Model: Two Layers
+
+**Layer 1 — Consulting (Active Income):** AI Readiness Assessments, Implementation Sprints, Advisory retainers. This is the revenue foundation and credibility engine.
+
+**Layer 2 — Thought Leadership (Passive Income):** Daily content across expanding platforms builds audience. Monetization unlocks over time: affiliate revenue → digital products → sponsorships → courses. Every consulting engagement feeds content. Every piece of content drives consulting leads.
+
+Kevin is the voice and filter. AI handles production scaling. Nothing auto-publishes.
+
+See `areas/strategy/passive-income-roadmap.md` for the full roadmap.
+See `areas/content/linkedin-framework.md` for the daily content framework.
+
 Differentiators
 
 Security-first — every recommendation includes a risk assessment
@@ -76,3 +88,12 @@ Don't create files outside the repo structure without asking.
 Don't modify madprojx-site/ when working on business docs (and vice versa).
 Don't use enterprise jargon in any content meant for small business audiences.
 Don't recommend tools or vendors without noting security/privacy considerations.
+
+## Workflow: Claude Desktop → Claude Code Handoff
+
+Content strategy, brand decisions, copy drafting, and planning happen in Claude Desktop (Cowork/Project chat). Claude Desktop does NOT build files or write code for the repo.
+
+When a task is ready for implementation, Claude Desktop provides a detailed prompt for Claude Code. Kevin copies that prompt to a Claude Code session on KITT, where the actual repo work happens.
+
+Claude Desktop's job: decide what to build and why.
+Claude Code's job: build it, test it, deploy it.

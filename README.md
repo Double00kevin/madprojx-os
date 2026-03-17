@@ -4,14 +4,16 @@ Single source of truth for madprojx — AI consulting for small businesses.
 
 ## Current Phase
 
-**Phase 2: Presence** — website live, LinkedIn launched.
+**Phase 2: Presence + Layer 2 Launch** — website live, LinkedIn shifting to daily content, building thought leadership engine on top of consulting foundation.
 
 ## Active Priorities
 
-1. Weekly LinkedIn content (2-3 posts/week) — first post published
+1. LinkedIn daily content — framework documented, ramping from 2-3/week to daily
 2. First blog article for madprojx.com
-3. Build weekly content rhythm (Monday plan → Wed draft → Thursday publish → Friday engage)
-4. Client outreach planning
+3. Build passive income roadmap alongside consulting services
+4. Content pipeline architecture for KITT (Month 2-3)
+5. Newsletter signup integration on madprojx.com
+6. Client outreach planning
 
 ## Completed
 
@@ -54,6 +56,8 @@ madprojx-os/
 | Content Strategy | `areas/content/strategy.md` | Platforms, cadence, pillars, weekly workflow |
 | Content Ideas | `areas/content/ideas-bank.md` | Running backlog of content ideas |
 | AI Decision Matrix | `areas/operations/ai-decision-matrix.md` | Which AI tool for which task |
+| LinkedIn Framework | `areas/content/linkedin-framework.md` | Daily posting framework, formats, engagement strategy |
+| Passive Income Roadmap | `areas/strategy/passive-income-roadmap.md` | Two-layer model, monetization timeline, platform phases |
 
 ## Environment
 

@@ -20,6 +20,20 @@ Small businesses that know they need AI but don't know where to start, who to tr
 - Content creation workflow is repeatable (weekly content brief via Cowork scheduled task → draft → edit → publish)
 - First outreach to potential clients has started
 
+## Layer 2: Thought Leadership & Passive Income (Added March 2026)
+
+In addition to the consulting foundation, madprojx is building a content-driven passive income engine:
+
+- Kevin established as a recognized voice in AI security for small business
+- Daily LinkedIn posting with documented content framework
+- Content pipeline on KITT that turns voice memos into multi-platform content (Month 2-3 build)
+- Email newsletter launched and growing (Month 2)
+- First digital product (template pack, checklist, or mini-course) launched (Month 6)
+- Affiliate revenue from recommended AI tools (Month 3+)
+- madprojx.com expanded with blog, newsletter signup, and resources hub
+
+This layer builds on top of Layer 1 consulting — it does not replace it.
+
 ## What is explicitly out of scope?
 
 - Building a full agency or hiring team members
@@ -28,3 +42,6 @@ Small businesses that know they need AI but don't know where to start, who to tr
 - Client onboarding workflows (not needed until there are clients)
 - Custom software products or SaaS builds
 - Paid advertising
+- Auto-posting or bot-driven content publishing
+- Paid advertising for audience growth (organic only)
+- Personal brand website separate from madprojx.com
