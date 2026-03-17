@@ -1,8 +1,8 @@
 # LinkedIn Post 3 — "Read the terms"
 
 **Pillar:** AI Security for Small Business
-**Status:** Draft
-**Target publish:** TBD
+**Status:** Scheduled
+**Target publish:** 2026-03-21
 
 ---
 

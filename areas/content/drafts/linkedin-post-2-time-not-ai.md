@@ -1,8 +1,8 @@
 # LinkedIn Post 2 — "Stop asking should we use AI"
 
 **Pillar:** AI Made Simple
-**Status:** Draft
-**Target publish:** TBD
+**Status:** Archived — superseded by linkedin-post-4-accounting-firm.md
+**Target publish:** N/A
 
 ---
 
