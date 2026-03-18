@@ -1,4 +1,5 @@
 # madprojx — Business Context for Claude Code
+> Last updated: 2026-03-18
 
 You are working inside the madprojx-os repository — the single source of truth for madprojx, a one-person AI consulting brand.
 
@@ -25,6 +26,13 @@ Kevin is the voice and filter. AI handles production scaling. Nothing auto-publi
 - Vendor-neutral — we recommend the right tool, not the one that pays us
 - Solo practitioner — clients work directly with Kevin
 - Small business focus — recommendations fit real budget and staffing constraints
+
+## Model & Settings Guidance
+Default model for ALL work: Opus 4.6
+- Use Opus 4.6 on every single turn, every subagent, every agent team.
+- I will change the model myself in the Desktop/Code tab dropdown if I ever want something different.
+- Never suggest or switch to Sonnet, Haiku, or any other model.
+- Effort level: high (default). Use "ultrathink" keyword only when I explicitly type it.
 
 ## Repo Structure
 
@@ -66,6 +74,11 @@ When a task is ready for implementation, Claude Desktop provides a detailed prom
 - AI tool decisions: `areas/operations/ai-decision-matrix.md`
 - Passive income roadmap: `areas/strategy/passive-income-roadmap.md`
 - Daily content framework: `areas/content/linkedin-framework.md`
+
+## Close The Loop
+
+When I type "close the loop":
+1. Update this file's "Last updated" date + any changed sections
 
 ## Rules
 
