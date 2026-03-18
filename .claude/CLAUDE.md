@@ -1,5 +1,5 @@
 # madprojx — Business Context for Claude Code
-> Last updated: 2026-03-18
+> Last updated: 2026-03-19
 
 You are working inside the madprojx-os repository — the single source of truth for madprojx, a one-person AI consulting brand.
 
@@ -75,10 +75,17 @@ When a task is ready for implementation, Claude Desktop provides a detailed prom
 - Passive income roadmap: `areas/strategy/passive-income-roadmap.md`
 - Daily content framework: `areas/content/linkedin-framework.md`
 
-## Close The Loop
+## Close The Loop (git-aware version v2)
 
 When I type "close the loop":
-1. Update this file's "Last updated" date + any changed sections
+1. Run `git log -1 --oneline` to get the latest commit.
+2. Update this file's "Last updated" date to today's date.
+3. Always append a short summary to docs/changelog.md (even if it already exists) with the commit hash and what changed.
+4. Verify the matching roadmap item is checked off with today's date.
+5. If database/auth/architecture changed, also touch those files.
+6. End with: "Loop closed. All docs now reflect commit [hash]."
+
+This guarantees documentation stays fresh no matter which machine made the change.
 
 ## Rules
 
