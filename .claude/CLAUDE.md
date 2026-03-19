@@ -27,12 +27,6 @@ Kevin is the voice and filter. AI handles production scaling. Nothing auto-publi
 - Solo practitioner — clients work directly with Kevin
 - Small business focus — recommendations fit real budget and staffing constraints
 
-## Model & Settings Guidance
-Default model for ALL work: Opus 4.6
-- Use Opus 4.6 on every single turn, every subagent, every agent team.
-- I will change the model myself in the Desktop/Code tab dropdown if I ever want something different.
-- Never suggest or switch to Sonnet, Haiku, or any other model.
-- Effort level: high (default). Use "ultrathink" keyword only when I explicitly type it.
 
 ## Repo Structure
 
